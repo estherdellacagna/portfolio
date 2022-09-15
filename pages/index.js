@@ -14,7 +14,8 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>Welcome to my Portfolio</h1>
         <h2>More content coming soon..</h2>
-       <h3>🤩</h3>
+        <h3>🤩</h3>
+        <h3>🤩</h3>
       </main>
 
       <footer className={styles.footer}>
